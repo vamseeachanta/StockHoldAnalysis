@@ -1,2 +1,9 @@
 # StockHoldAnalysis
-Stock analysis for long-term holding. Manage a stock as a stand-alone portfolio
+Stock analysis, logic and guidance for long-term holding. 
+Helps manage a stock as a stand-alone portfolio
+
+
+## References
+
+
+https://www.lynalden.com/covered-calls/

@@ -1,0 +1,16 @@
+name: sha
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - pip
+  - pip:
+    - leveraged-multi-family-analysis
+    - pyyaml
+    - numpy_financial
+    - bumpver
+    - plotly
+    - dash==2.5.1
+    - dash_bootstrap_components
